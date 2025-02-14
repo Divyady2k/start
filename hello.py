@@ -1,2 +1,4 @@
-n=int(input())
-print ("odd") if n%2==1 else print ("even")
+a,b=input.split()
+z=0.5*a*b
+print(z)
+
