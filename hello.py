@@ -1,4 +1,2 @@
-a,b=input.split()
-z=0.5*a*b
-print(z)
-
+n = int(input())
+print ("Divya is great") if n>0 else print ("Teja is great")
